@@ -1,0 +1,17 @@
+{
+  "name": "req-accepter",
+  "version": "1.0.0",
+  "description": "For accepting the instagram request automatic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ved Prakash Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.1.0",
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "underscore": "^1.9.1"
+  }
+}
