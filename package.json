@@ -12,6 +12,6 @@
     "async": "^3.1.0",
     "express": "^4.17.1",
     "request": "^2.88.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
